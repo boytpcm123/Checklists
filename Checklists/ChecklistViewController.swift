@@ -13,7 +13,9 @@ class ChecklistViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
+        //Hay ghe
+        print("Hom nay di choi")
+        print("Hom nay di choi")
         print("Hom nay di choi")
     }
     
@@ -44,7 +46,7 @@ class ChecklistViewController: UITableViewController {
             label.text = "Eat ice cream"
         }
         
-
+        
         
         return cell
     }
