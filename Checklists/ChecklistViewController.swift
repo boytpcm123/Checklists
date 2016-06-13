@@ -15,9 +15,7 @@ class ChecklistViewController: UITableViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         //Hay ghe
-        print("Hom nay di choi")
-        print("Hom nay di choi")
-        print("Hom nay di choi")
+        
         
         
         //Do some thing happen
