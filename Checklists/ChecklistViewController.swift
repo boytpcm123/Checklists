@@ -14,12 +14,19 @@ class ChecklistViewController: UITableViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
 <<<<<<< HEAD
+<<<<<<< HEAD
         //Hay ghe
         print("Hom nay di choi")
         print("Hom nay di choi")
         print("Hom nay di choi")
 =======
 >>>>>>> parent of e0a358a... di choi
+=======
+        
+        //Do some thing happen
+        //Do some thing happen
+        //Do some thing happen
+>>>>>>> origin/AnotherBranch
     }
     
     override func didReceiveMemoryWarning() {
