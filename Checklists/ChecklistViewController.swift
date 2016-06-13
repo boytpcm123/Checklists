@@ -13,10 +13,13 @@ class ChecklistViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
         //Hay ghe
         print("Hom nay di choi")
         print("Hom nay di choi")
         print("Hom nay di choi")
+=======
+>>>>>>> parent of e0a358a... di choi
     }
     
     override func didReceiveMemoryWarning() {
@@ -46,7 +49,7 @@ class ChecklistViewController: UITableViewController {
             label.text = "Eat ice cream"
         }
         
-        
+
         
         return cell
     }
