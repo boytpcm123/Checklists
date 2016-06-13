@@ -44,7 +44,7 @@ class ChecklistViewController: UITableViewController {
             label.text = "Eat ice cream"
         }
         
-        
+
         
         return cell
     }
